@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0704-binary-search](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -27,5 +28,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
