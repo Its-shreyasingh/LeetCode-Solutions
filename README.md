@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0704-binary-search](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
