@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
