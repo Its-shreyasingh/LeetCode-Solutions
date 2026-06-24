@@ -83,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -103,5 +104,6 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
