@@ -85,6 +85,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -106,4 +107,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
