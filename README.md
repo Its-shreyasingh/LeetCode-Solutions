@@ -12,6 +12,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
