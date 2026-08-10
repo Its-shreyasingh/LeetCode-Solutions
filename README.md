@@ -15,6 +15,7 @@
 | [0485-max-consecutive-ones](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -59,6 +60,7 @@
 | [0035-search-insert-position](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
@@ -121,4 +123,12 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
