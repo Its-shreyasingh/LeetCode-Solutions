@@ -18,6 +18,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -89,6 +90,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0904-fruit-into-baskets](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
