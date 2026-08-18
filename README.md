@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [1314-matrix-block-sum](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
@@ -90,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
