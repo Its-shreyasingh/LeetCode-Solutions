@@ -20,6 +20,7 @@
 | [0735-asteroid-collision](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1314-matrix-block-sum](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [1314-matrix-block-sum](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -138,4 +140,5 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1314-matrix-block-sum](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
