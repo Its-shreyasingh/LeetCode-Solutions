@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Greedy
 |  |
 | ------- |
