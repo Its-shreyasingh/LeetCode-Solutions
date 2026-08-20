@@ -23,6 +23,7 @@
 | [0904-fruit-into-baskets](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1314-matrix-block-sum](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
