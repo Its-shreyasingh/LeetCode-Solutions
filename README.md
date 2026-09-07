@@ -29,6 +29,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -54,6 +55,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -107,6 +109,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -154,4 +157,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Its-shreyasingh/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
